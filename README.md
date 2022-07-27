@@ -48,7 +48,6 @@
   - [react-router-dom](https://v5.reactrouter.com/)
   - [axios](https://github.com/axios/axios)
   - [styled-components](https://styled-components.com/)
-   Link Surge: 
-  - Acesse Ufuture [clicando aqui.]
-
+  
+  
 <br>  
